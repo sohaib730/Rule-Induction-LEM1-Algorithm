@@ -1,0 +1,20 @@
+['(petal_width_1.35,H)', '(petal_length_4.95,L)', '(petal_width_1.55,L)']   --->   (class,Iris-versicolor)
+
+['(petal_width_0.45,H)', '(sepal_width_3.05,L)', '(petal_length_4.95,L)', '(petal_width_1.55,L)']   --->   (class,Iris-versicolor)
+
+['(sepal_width_3.05,H)', '(petal_length_4.95,L)', '(petal_width_1.55,H)']   --->   (class,Iris-versicolor)
+
+['(petal_width_1.75,L)', '(petal_length_4.95,H)', '(petal_length_5.45,L)', '(petal_width_1.55,H)']   --->   (class,Iris-versicolor)
+
+['(petal_length_5.45,H)']   --->   (class,Iris-viginica)
+
+['(petal_length_4.95,H)', '(petal_width_1.55,L)']   --->   (class,Iris-viginica)
+
+['(petal_width_1.75,H)', '(sepal_width_3.05,L)']   --->   (class,Iris-viginica)
+
+['(petal_length_4.95,H)', '(sepal_width_3.05,H)']   --->   (class,Iris-viginica)
+
+['(petal_length_4.95,L)', '(sepal_width_3.05,L)', '(petal_width_1.55,H)']   --->   (class,Iris-viginica)
+
+['(petal_width_0.8,L)']   --->   (class,Iris-setosa)
+
