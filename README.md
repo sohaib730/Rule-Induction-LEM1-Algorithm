@@ -5,7 +5,7 @@
 Python 2.7.12
 
 
-##RUN DEMO:
+## RUN DEMO:
 
 python main.py
 
