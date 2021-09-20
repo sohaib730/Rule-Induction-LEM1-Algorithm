@@ -5,12 +5,13 @@
 Python 2.7.12
 
 
-RUN DEMO:
+##RUN DEMO:
+
 python main.py
 
-Enter Input File name: Input/jerzy1.txt
+Input File name: Input/jerzy1.txt
 
-Enter Output file name with out extension: Output/jerzy
+Output file name with out extension: Output/jerzy
 
 
 ## Notes:
